@@ -37,20 +37,7 @@
 
 
 
-|T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | |`P`| | | | | | |`W`|
-| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
-|`M`| | |`Y`| | | | |`C`| |`I`|
-|`I`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
-|`N`| | |`H`| | | | |`L`| |`S`|
-|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
-|`M`| | |`L`| | | | |`R`| | |
-|`A`| | |`O`| | | | | | | |
-|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
-|`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
-|`M`| | | | | | | | | | |
+
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
