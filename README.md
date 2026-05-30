@@ -21,7 +21,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,bash,c,codepen,electron,figma,git,github,html,css,js,ts,threejs,sass,docker,mysql,postgres,notion,obsidian,replit,vscode,swift,py,tauri"/>
+    <img src="https://skillicons.dev/icons?i=apple,bash,c,electron,figma,git,github,html,css,js,ts,threejs,sass,docker,mysql,postgres,notion,obsidian,replit,codepen,vscode,swift,py,tauri"/>
   </a>
 </p>
 
